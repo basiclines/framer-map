@@ -1,5 +1,5 @@
 {
-	"main": "build/index.js",
+	"main": "dist/index.js",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/react": "^16.0.31",
@@ -26,5 +26,5 @@
 		"mapbox"
 	],
 	"name": "@framer/basiclines.map",
-	"version": "1.1.0"
+	"version": "1.2.0"
 }
